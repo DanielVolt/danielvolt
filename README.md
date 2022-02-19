@@ -4,7 +4,7 @@
 
 💡 The plug-and-play kit for Mazda cars will be available very soon for purchase on our website https://apextweaks.com/
 
-🚗 In my free time i work on the ECU of my Audi TT 8s Simos18.1, by adjusting the mapping file to prepare for the big turbo. Currently at 320hp, 520nm.
+🚗 In my free time i work on the ECU of my Audi TT 8s Simos18.1, by adjusting the mapping file to prepare for the big turbo. Currently at 424hp, 493nm.
 
 📫 Have any questions? Mail me at danielvolt@apextweaks.com
 
